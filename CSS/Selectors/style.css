@@ -1,0 +1,14 @@
+* {
+    font-style: italic;
+}
+
+div {
+    color: blueviolet;
+}
+p {
+    color: brown;
+}
+
+.Big {
+    font-size: 25px;
+}
