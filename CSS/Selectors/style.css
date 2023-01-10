@@ -3,12 +3,24 @@
 }
 
 div {
-    color: blueviolet;
+    color: blue;
 }
 p {
-    color: brown;
+    color: red;
 }
 
 .Big {
     font-size: 25px;
+}
+
+.Bold {
+    font-weight: bold;
+}
+
+#One {
+    background-color: orange;
+}
+
+#Two {
+    background-color: orangered;
 }
