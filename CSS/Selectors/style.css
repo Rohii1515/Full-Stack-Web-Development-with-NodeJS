@@ -24,3 +24,7 @@ p {
 #Two {
     background-color: orangered;
 }
+
+input[disabled] {
+     font-weight: bold;
+}
