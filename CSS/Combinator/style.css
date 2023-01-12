@@ -3,3 +3,8 @@ h2 + p {
     color: blueviolet;
     background-color: aqua;
 }
+h1+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+    background-color: bisque;
+}
